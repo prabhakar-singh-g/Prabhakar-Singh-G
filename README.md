@@ -5,57 +5,35 @@
   <img src="https://komarev.com/ghpvc/?username=prabhakar-singh-g&label=Profile%20views&color=0e75b6&style=flat" alt="prabhakar-singh-g" />
 </p>
 
-<h3>🔍 About Me</h3>
+🔭 Mathematics & Competitive Exams Teacher<br>🧠 Passionate about Data Analytics & Problem Solving<br>🏆 3-time National Chess Player & University Champion<br>🌱 Building skills in Python, SQL & Data Visualization<br>💼 Interned at IKS, focused on Astronomy and calculations
 
-<img align="right" alt="GIF" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-<ul>
-  <li>🔭 Mathematics & Competitive Exams Teacher</li>
-  <li>🧠 Passionate about Data Analytics & Problem Solving</li>
-  <li>🏆 3-time National Chess Player & University Champion</li>
-  <li>🌱 Building skills in Python, SQL & Data Visualization</li>
-  <li>💼 Interned at IKS, focused on Astronomy and calculations</li>
-</ul>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prbhakrsingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhakar-singh-g) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prbhakrsingh) 
 
-<h3>📫 Connect with Me</h3>
+<!-- Snake Game Repo View -->
 
-<p>
-  <a href="https://linkedin.com/in/prabhakar-singh-g" target="_blank" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/prabhakar-singh-g" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-<h3>🛠️ Languages & Tools</h3>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=prabhakar-singh-g&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=prabhakar-singh-g&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakar-singh-g&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40" style="margin-right: 10px;" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=prabhakar-singh-g&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;" />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=prabhakar-singh-g&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=prabhakar-singh-g&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3>📈 GitHub Stats</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhakar-singh-g&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p style="clear: both; padding-top: 20px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhakar-singh-g&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p style="padding-top: 20px;">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhakar-singh-g" alt="GitHub Streak" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
