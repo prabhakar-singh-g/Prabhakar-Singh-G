@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=prabhakar-singh-g&label=Profile%20views&color=0e75b6&style=flat" alt="prabhakar-singh-g" />
 </p>
 
-🔭 Mathematics & Competitive Exams Teacher<br>🧠 Passionate about Data Analytics & Problem Solving<br>🏆 3-time National Chess Player & University Champion<br>🌱 Building skills in Python, SQL & Data Visualization<br>💼 Interned at IKS, focused on Astronomy and calculations
+🔭 Mathematics & Competitive Exams Teacher<br>🧠 Passionate about Data Analytics & Problem Solving<br>🏆 3-time National Chess Player (JNV) & University Champion<br>🌱 Building skills in Python, SQL & Data Visualization<br>💼 Interned at IKS, focused on Astronomy and calculations
 
 
 ## 🌐 Socials:
